@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Articulo n°1",
+        "author": "Jose",
+        "thumbnail": "https://images.pexels.com/photos/462118/pexels-photo-462118.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean et metus nisl. In sit amet nisi vestibulum, gravida sapien ac, consectetur augue. Morbi eget leo lacinia, varius massa et, rhoncus erat. In sollicitudin massa eget nibh blandit consectetur. Proin nec tellus velit. Quisque id arcu odio. Duis nulla erat, pharetra vel scelerisque a, sollicitudin eu dolor.",
+        "created_at": "20/05/2022"
+    },
+    {
+        "title": "Articulo n°2",
+        "author": "Juan",
+        "thumbnail": "https://images.pexels.com/photos/462118/pexels-photo-462118.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "overview":"Cras tincidunt mi eget magna eleifend pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus elit lorem, laoreet nec sollicitudin in, pharetra nec ligula. Morbi eu magna sit amet diam venenatis rutrum. Aliquam egestas odio eget mi tristique mollis. Vestibulum eget ligula neque. ",
+        "created_at": "20/05/2022"
+    }
+]
